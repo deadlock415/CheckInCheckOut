@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205838076749",
+    "firebase_url": "https://checkinout-17357.firebaseio.com",
+    "project_id": "checkinout-17357",
+    "storage_bucket": "checkinout-17357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205838076749:android:d52dbe40accad83ce10504",
+        "android_client_info": {
+          "package_name": "com.example.checkinout.checkinout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205838076749-098u93dqo868vcebc0iv3tp5ondtflmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.checkinout.checkinout",
+            "certificate_hash": "67080eb4f195a9d28274432c494a44e72bb36b81"
+          }
+        },
+        {
+          "client_id": "205838076749-bnt5cv8v00io0oe4oiqvvnsh2kutpmpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfS46W6Be9pYnEhlvSpC_ep8xlqcnhyrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205838076749-bnt5cv8v00io0oe4oiqvvnsh2kutpmpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
